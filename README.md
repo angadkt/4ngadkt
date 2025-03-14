@@ -2,16 +2,16 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
-<img src="https://leetcard.jacoblin.cool/m_h_d__salih?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=angadkt&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+<img src="https://leetcard.jacoblin.cool/angadkt?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
 </div>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-h-d-salih&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angadkt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-h-d-salih&label=Profile%20views&color=0e75b6&style=flat" alt="m-h-d-salih" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angadkt&label=Profile%20views&color=0e75b6&style=flat" alt="angadkt" /> </p>
 
 - 🔭 I’m currently working as a MERN Stack Developer in Bridgeon Solutions LLP
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/m_h_d__salih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_h_d__salih" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mohammed-salih-7571062b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-h-d-salih" height="30" width="40" /></a>
+<a href="https://instagram.com/___.angad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angadkt" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/angadkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angadkt" height="30" width="40" /></a>
 </p>
 
 <div align="center">
